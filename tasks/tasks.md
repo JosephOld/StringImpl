@@ -68,7 +68,7 @@ project/
 - `String& operator=(char ch)` - оператор присваивания символам
 - `String& operator=(std::initializer_list<char> init)` - оператор присваивания от `initializer_list`
 
-**Методы получения размера:**
+**Информация о размере:**
 
 - `size_t size() const` - возвращает длину строки
 - `bool empty() const` - проверяет пуста ли строка
